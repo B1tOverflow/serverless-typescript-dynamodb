@@ -4,6 +4,9 @@
   "description": "A boilerplate  of serverless architecture build with serverless framework on AWS  with nodejs TypeScript and DynamoDb with IaC",
   "main": "app.ts",
   "scripts": {
+    "lint": "tslint -p tsconfig.json -c tslint.json",
+    "local": "serverless offline",
+    "deploy": "serverless deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
