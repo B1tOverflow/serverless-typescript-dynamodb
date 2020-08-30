@@ -1,0 +1,31 @@
+{
+  "name": "serverless-typescript-dynamodb",
+  "version": "0.0.1",
+  "description": "A boilerplate  of serverless architecture build with serverless framework on AWS  with nodejs TypeScript and DynamoDb with IaC",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B1tOverflow/serverless-typescript-dynamodb.git"
+  },
+  "keywords": [
+    "Serverless",
+    "Nodejs",
+    "TypeScript",
+    "Serverless",
+    "NodeJs",
+    "TypeScript",
+    "Serverless",
+    "Serverless",
+    "DynamoDb",
+    "NodeJs"
+  ],
+  "author": "Sachin Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B1tOverflow/serverless-typescript-dynamodb/issues"
+  },
+  "homepage": "https://github.com/B1tOverflow/serverless-typescript-dynamodb#readme"
+}
