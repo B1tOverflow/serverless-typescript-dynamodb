@@ -44,8 +44,13 @@
     "typescript": "^4.0.2"
   },
   "dependencies": {
+    "@middy/core": "^1.2.0",
+    "@middy/http-error-handler": "^1.2.0",
+    "@middy/http-event-normalizer": "^1.2.0",
+    "@middy/http-json-body-parser": "^1.2.0",
     "aws-sdk": "^2.742.0",
     "dotenv": "^8.2.0",
+    "http-errors": "^1.8.0",
     "uuid": "^8.3.0"
   }
 }
