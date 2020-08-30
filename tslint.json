@@ -1,0 +1,12 @@
+{
+  "indent": [true, "tabs", 2],
+  "rules": {
+    "quotemark": false,
+    "no-console": true,
+    "no-inferrable-types": true,
+    "no-empty": true
+  },
+  "linterOptions": {
+    "exclude": ["tests/*auctions.mock.ts"]
+  }
+}
