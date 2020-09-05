@@ -6,7 +6,7 @@ export class ToDOController extends ToDoService {
 
   async updateTodo(event: any, context?: Context) {}
 
-  async deleteTod(event: any, context?: Context) {}
+  async deleteTodo(event: any, context?: Context) {}
 
   async findAllTodos(event: any, context?: Context) {}
 
