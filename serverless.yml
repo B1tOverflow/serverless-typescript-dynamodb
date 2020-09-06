@@ -61,6 +61,6 @@ functions:
 custom:
   serverless-offline:
     httpPort: 4000
-  AuctionTable:
+  TodoTable:
     name: !Ref ToDOTable
     arn: !GetAtt ToDOTable.Arn
