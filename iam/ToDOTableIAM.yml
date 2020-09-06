@@ -2,5 +2,7 @@ ToDOTableIAM:
   Effect: Allow
   Action:
     - dynamodb:PutItem
+    - dynamodb:Scan
+    - dynamodb:UpdateItem
   Resource:
     - ${self:custom.ToDOTable.arn}
