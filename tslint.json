@@ -7,6 +7,6 @@
     "no-empty": true
   },
   "linterOptions": {
-    "exclude": ["tests/*auctions.mock.ts"]
+    "exclude": ["tests/*todos.mock.ts"]
   }
 }

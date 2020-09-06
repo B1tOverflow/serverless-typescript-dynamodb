@@ -1,4 +1,4 @@
-AuctionTable:
+TodoTable:
   Type: AWS::DynamoDB::Table
   Properties:
     TableName: ToDOTable-${self:provider.stage}
